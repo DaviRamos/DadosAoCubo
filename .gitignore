@@ -6,6 +6,9 @@
 .ipynb_checkpoints 
 * /. ipynb_checkpoints / *
 
+.ipynb_checkpoints 
+* /. Nova pasta / *
+
 # User-specific files
 *.rsuser
 *.suo
