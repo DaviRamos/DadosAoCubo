@@ -7,7 +7,7 @@
 
 ## Sejam Bem Vindos !!!
 
-### Aqui estão os Projetos dos Meus Artigos Publicados no <a href="https://dadosaocubo.com/author/dramos/" target="_blank">**Portal Dados ao Cubo 📊**</a>
+### Aqui estão os Projetos dos Artigos Publicados no <a href="https://dadosaocubo.com/author/dramos/" target="_blank">**Portal Dados ao Cubo 📊**</a>
 
 | Artigo        | Arquivos      |
 | ------------- |:-------------:|
