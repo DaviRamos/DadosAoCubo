@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-ramos/)](https://www.linkedin.com/in/davi-ramos/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Daviinfo/)](https://twitter.com/Daviinfo/)
+[![gmail badge](https://img.shields.io/badge/Davi_Ramos-30302f?style=flat&logo=Gmail&logoColor=Red&link=mailto:jeccabral22@gmail.com)](mailto:jeccabral22@gmail.com)
 <a href="https://github.com/DaviRamos"><img src="https://img.shields.io/github/followers/DaviRamos.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 ## Sejam Bem Vindos !!!
