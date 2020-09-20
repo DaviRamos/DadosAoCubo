@@ -6,4 +6,7 @@
 
 ## Sejam Bem Vindos !!!
 
-### Aqui estão os Projetos dos Meus Artigos Publicados no <a href="https://dadosaocubo.com/author/dramos/" target="_blank">Portal Dados ao Cubo 📊</a>
+### Aqui estão os Projetos dos Meus Artigos Publicados no <a href="https://dadosaocubo.com/author/dramos/" target="_blank">**Portal Dados ao Cubo 📊**</a>
+
+Machine Learning com ML.Net no Jupyter Notebook
+Análise Exploratória com ML.Net e Jupyter Notebook no Ubuntu
