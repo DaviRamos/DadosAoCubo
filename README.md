@@ -21,7 +21,7 @@
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviramos&theme=default&count_private=true&show_icons=true" /></td>
   </tr>   
     <tr>
-      <td>![Jessica github stats](https://github-readme-stats.vercel.app/api?username=daviramos)</td>
+      <td>![Jessica github stats](https://github-readme-stats.vercel.app/api?username=jcabralc)</td>
       <td>tete</td>
   </tr>  
 </table>
