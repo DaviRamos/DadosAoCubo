@@ -10,7 +10,7 @@
 
 <dl>
   <dt>Lista de Artigos</dt>
-  <dd>Machine Learning com ML.Net no Jupyter Notebook.</dd>
+  <dt>Machine Learning com ML.Net no Jupyter Notebook.</dt>
   <dd>Análise Exploratória com ML.Net e Jupyter Notebook no Ubuntu.</dd>
 </dl>
 
