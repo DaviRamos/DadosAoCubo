@@ -13,14 +13,3 @@
 | ------------- |:-------------:|
 | 1. <a href="https://dadosaocubo.com/machine-learning-com-ml-net-no-jupyter-notebook/" target="_blank">Machine Learning com ML.Net no Jupyter Notebook.</a>     | right-aligned |
 |2. <a href="https://dadosaocubo.com/analise-exploratoria-com-ml-net-e-jupyter-notebook-no-ubuntu/" target="_blank">Análise Exploratória com ML.Net e Jupyter Notebook no Ubuntu.</a>     | centered      |
-
-![Jessica github stats](https://github-readme-stats.vercel.app/api?username=jcabralc)
-
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviramos&hide=css,html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviramos&theme=default&count_private=true&show_icons=true" /></td>
-  </tr>   
-</table>
-</center>
