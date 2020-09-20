@@ -11,5 +11,5 @@
 
 | Artigo        | Arquivos      |
 | ------------- |:-------------:|
-| 1. <a href="https://dadosaocubo.com/machine-learning-com-ml-net-no-jupyter-notebook/" target="_blank">Machine Learning com ML.Net no Jupyter Notebook.</a>     | [I'm a relative reference to a repository file](../master/L.Net%201%20-%20RegressaoLinear.ipynb)| 
+| 1. <a href="https://dadosaocubo.com/machine-learning-com-ml-net-no-jupyter-notebook/" target="_blank">Machine Learning com ML.Net no Jupyter Notebook.</a>     | [I'm a relative reference to a repository file](../master/ML.Net%201%20-%20RegressaoLinear.ipynb)| 
 |2. <a href="https://dadosaocubo.com/analise-exploratoria-com-ml-net-e-jupyter-notebook-no-ubuntu/" target="_blank">Análise Exploratória com ML.Net e Jupyter Notebook no Ubuntu.</a>     | [I'm a relative reference to a repository file](../master/ML.Net%202%20-%20Dataframe%20e%20Regressao.ipynb)      |
