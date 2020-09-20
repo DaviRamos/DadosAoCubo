@@ -8,9 +8,13 @@
 
 ### Aqui estão os Projetos dos Meus Artigos Publicados no <a href="https://dadosaocubo.com/author/dramos/" target="_blank">**Portal Dados ao Cubo 📊**</a>
 
+1. Machine Learning com ML.Net no Jupyter Notebook.
+2. Análise Exploratória com ML.Net e Jupyter Notebook no Ubuntu.
+
+
 <dl>
   <dt>Lista de Artigos</dt>
-  <dt>Machine Learning com ML.Net no Jupyter Notebook.</dt>
+  <dd>Machine Learning com ML.Net no Jupyter Notebook.</dd>
   <dd>Análise Exploratória com ML.Net e Jupyter Notebook no Ubuntu.</dd>
 </dl>
 
