@@ -8,5 +8,13 @@
 
 ### Aqui estão os Projetos dos Meus Artigos Publicados no <a href="https://dadosaocubo.com/author/dramos/" target="_blank">**Portal Dados ao Cubo 📊**</a>
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
 Machine Learning com ML.Net no Jupyter Notebook
 Análise Exploratória com ML.Net e Jupyter Notebook no Ubuntu
