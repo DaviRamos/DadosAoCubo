@@ -4,8 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.ML.Data;
 
-
-namespace HousePrice_WebApi.Models
+namespace ML.NET.Web.Embedded.Schema
 {
     public class ModelOutput
     {
@@ -13,3 +12,4 @@ namespace HousePrice_WebApi.Models
         public float Score { get; set; }
     }
 }
+

@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace HousePrice_WebApi
+namespace ML.NET.Web.Embedded
 {
     public class Program
     {

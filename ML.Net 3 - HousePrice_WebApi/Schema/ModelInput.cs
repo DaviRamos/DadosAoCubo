@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.ML.Data;
 
-namespace HousePrice_WebApi.Models
+namespace ML.NET.Web.Embedded.Schema
 {
-    public class PredictlViewModel
+    public class ModelInput
     {
         [LoadColumn(0)]
         public float Longitude { get; set; }
@@ -27,6 +27,6 @@ namespace HousePrice_WebApi.Models
         [ColumnName("Label"), LoadColumn(8)]
         public float Median_house_value { get; set; }
         [LoadColumn(9)]
-        public string Ocean_proximity { get; set; }
+        public string Ocean_proximity { get; set; } 
     }
 }

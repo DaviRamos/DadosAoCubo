@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.NET.Web.Embedded", "ML.NET.Web.Embedded.csproj", "{84B8D0E7-738C-499C-B4BE-B93EAA84C0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B8D0E7-738C-499C-B4BE-B93EAA84C0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B8D0E7-738C-499C-B4BE-B93EAA84C0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B8D0E7-738C-499C-B4BE-B93EAA84C0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B8D0E7-738C-499C-B4BE-B93EAA84C0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F884E8-3884-463A-88E4-195C029DC104}
+	EndGlobalSection
+EndGlobal
